@@ -1,0 +1,107 @@
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00b4d8&height=200&section=header&text=Ziad%20Hesham&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=22" width="100%" />
+</div>
+
+<!-- Typing SVG -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;MEAN+Stack+Developer+%E2%9A%A1;ITI+9-Month+Program+%F0%9F%87%AA%F0%9F%87%AC;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<!-- About Me -->
+## 👨‍💻 About Me
+
+```javascript
+const ziad = {
+  name:       "Ziad Hesham",
+  location:   "Egypt 🇪🇬",
+  education:  "ITI — 9 Month Professional Program",
+  focus:      ["MERN Stack", "MEAN Stack", "Full-Stack Web Development"],
+  experience: "1+ year",
+  currentlyLearning: ["Advanced React Patterns", "System Design"],
+  funFact:    "I turn coffee into code ☕→💻"
+};
+```
+
+<br/>
+
+<!-- Tech Stack -->
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<br/>
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZiadHesham0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=6e40c9&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadHesham0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiadHesham0&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=00b4d8&currStreakLabel=00b4d8" />
+</div>
+
+<br/>
+
+<!-- GitHub Activity Graph -->
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZiadHesham0&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00b4d8&line=6e40c9&point=ffffff" width="100%" />
+</div>
+
+<br/>
+
+<!-- Connect -->
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ZiadHesham0)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziadhesham@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZiadHesham0)
+
+</div>
+
+<br/>
+
+<!-- Profile Views -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZiadHesham0&color=6e40c9&style=for-the-badge&label=PROFILE+VIEWS" />
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:6e40c9&height=100&section=footer" width="100%" />
+</div>
