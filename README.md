@@ -59,46 +59,17 @@ const Andrew = {
 
 <br/>
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZiadHesham0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=6e40c9&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadHesham0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiadHesham0&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=00b4d8&currStreakLabel=00b4d8" />
-</div>
-
-<br/>
-
-<!-- GitHub Activity Graph -->
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZiadHesham0&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00b4d8&line=6e40c9&point=ffffff" width="100%" />
-</div>
-
-<br/>
-
 <!-- Connect -->
 ## 🤝 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ZiadHesham0)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziadhesham@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZiadHesham0)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrewayman.com)
 
 </div>
 
 <br/>
-
-<!-- Profile Views -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZiadHesham0&color=6e40c9&style=for-the-badge&label=PROFILE+VIEWS" />
-</div>
 
 <!-- Footer -->
 <div align="center">
