@@ -17,7 +17,7 @@ const Andrew = {
   name:       "Andrew Ayman",
   location:   "Egypt 🇪🇬",
   education:  "ITI — 9 Month Professional Trainee",
-  focus:      ["MERN Stack", "MEAN Stack", "Full-Stack Web Development"],
+  focus:      ["MERN Stack", "MEAN Stack", "Front-End Web Development"],
   experience: "1+ year",
   funFact:    "I turn coffee into code ☕→💻"
 };
