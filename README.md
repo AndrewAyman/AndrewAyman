@@ -13,24 +13,6 @@
     <!-- Background -->
     <rect width="860" height="200" fill="url(#bg)"/>
 
-    <!-- Wave shapes -->
-    <path d="M0 140 Q100 110 200 130 Q320 155 440 125 Q560 95 680 120 Q780 140 860 115 L860 200 L0 200 Z" fill="#0d1117" opacity="0.5"/>
-    <path d="M0 160 Q150 135 300 155 Q450 175 600 148 Q720 128 860 150 L860 200 L0 200 Z" fill="#0d1117" opacity="0.7"/>
-    <path d="M0 178 Q200 165 400 175 Q600 185 860 170 L860 200 L0 200 Z" fill="#0d1117" opacity="0.9"/>
-
-    <!-- Subtitle (static) -->
-    <text x="430" y="122" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="rgba(255,255,255,0.85)" text-anchor="middle" letter-spacing="2">Software Engineer</text>
-
-    <!-- Name with breathing opacity animation -->
-    <text x="430" y="88" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" fill="white" text-anchor="middle" letter-spacing="-1">
-      Andrew Ayman
-      <animate attributeName="opacity" values="1;0.15;1" dur="3.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" keyTimes="0;0.5;1"/>
-    </text>
-  </g>
-</svg>
-Uploading header.svg…]()
-
-
 <!-- Typing SVG -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;MEAN+Stack+Developer+%E2%9A%A1;CS+Degree+Graduate+%F0%9F%8E%93;ITI+9-Month+Trainee+%F0%9F%87%AA%F0%9F%87%AC;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
