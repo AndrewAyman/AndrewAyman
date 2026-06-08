@@ -1,5 +1,35 @@
-<!-- Header Banner -->
-https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00b4d8&height=200&section=header&text=Andrew%20Ayman&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=22
+<img width="860" height="200" alt="header" src="https://github.com/user-attachments/assets/f14bcf47-0c97-4de1-9711-c47bf4ab218f" />![<svg width="860" height="200" viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6e40c9"/>
+      <stop offset="100%" style="stop-color:#00b4d8"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect width="860" height="200" rx="8"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <!-- Background -->
+    <rect width="860" height="200" fill="url(#bg)"/>
+
+    <!-- Wave shapes -->
+    <path d="M0 140 Q100 110 200 130 Q320 155 440 125 Q560 95 680 120 Q780 140 860 115 L860 200 L0 200 Z" fill="#0d1117" opacity="0.5"/>
+    <path d="M0 160 Q150 135 300 155 Q450 175 600 148 Q720 128 860 150 L860 200 L0 200 Z" fill="#0d1117" opacity="0.7"/>
+    <path d="M0 178 Q200 165 400 175 Q600 185 860 170 L860 200 L0 200 Z" fill="#0d1117" opacity="0.9"/>
+
+    <!-- Subtitle (static) -->
+    <text x="430" y="122" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="rgba(255,255,255,0.85)" text-anchor="middle" letter-spacing="2">Software Engineer</text>
+
+    <!-- Name with breathing opacity animation -->
+    <text x="430" y="88" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" fill="white" text-anchor="middle" letter-spacing="-1">
+      Andrew Ayman
+      <animate attributeName="opacity" values="1;0.15;1" dur="3.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+    </text>
+  </g>
+</svg>
+Uploading header.svg…]()
+
 
 <!-- Typing SVG -->
 <div align="center">
