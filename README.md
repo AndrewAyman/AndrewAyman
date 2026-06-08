@@ -14,13 +14,12 @@
 ## 👨‍💻 About Me
 
 ```javascript
-const ziad = {
-  name:       "Ziad Hesham",
+const Andrew = {
+  name:       "Andrew Ayman",
   location:   "Egypt 🇪🇬",
-  education:  "ITI — 9 Month Professional Program",
-  focus:      ["MERN Stack", "MEAN Stack", "Full-Stack Web Development"],
+  education:  "ITI — 9 Month Professional Trainee",
+  focus:      ["MERN Stack", "MEAN Stack", "Front-End Web Development"],
   experience: "1+ year",
-  currentlyLearning: ["Advanced React Patterns", "System Design"],
   funFact:    "I turn coffee into code ☕→💻"
 };
 ```
