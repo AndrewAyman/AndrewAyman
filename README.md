@@ -69,8 +69,6 @@ const Andrew = {
 
 </div>
 
-<br/>
-
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:6e40c9&height=100&section=footer" width="100%" />
