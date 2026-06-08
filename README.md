@@ -1,17 +1,12 @@
-<img width="860" height="200" alt="header" src="https://github.com/user-attachments/assets/f14bcf47-0c97-4de1-9711-c47bf4ab218f" />![<svg width="860" height="200" viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#6e40c9"/>
-      <stop offset="100%" style="stop-color:#00b4d8"/>
-    </linearGradient>
-    <clipPath id="clip">
-      <rect width="860" height="200" rx="8"/>
-    </clipPath>
-  </defs>
+<div align="center">
+  <img width="860" height="200" alt="header" src="https://github.com/user-attachments/assets/f14bcf47-0c97-4de1-9711-c47bf4ab218f" />
+</div>
 
-  <g clip-path="url(#clip)">
-    <!-- Background -->
-    <rect width="860" height="200" fill="url(#bg)"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;MEAN+Stack+Developer+%E2%9A%A1;CS+Degree+Graduate+%F0%9F%8E%93;ITI+9-Month+Trainee+%F0%9F%87%AA%F0%9F%87%AC;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+</div>
+
+<br/>
 
 <!-- Typing SVG -->
 <div align="center">
